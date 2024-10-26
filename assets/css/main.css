@@ -1302,6 +1302,12 @@ input, select, textarea {
 				font-size: 2rem;
 			}
 
+		#header	.logo-icon {
+				width: 3.5rem;
+				height: 3.5rem; 
+				vertical-align: middle;
+			}
+
 		#header .content {
 			border-style: solid;
 			border-color: #ffffff;
@@ -1450,6 +1456,12 @@ input, select, textarea {
 					font-size: 1.75rem;
 				}
 
+			#header	.logo-icon {
+					width: 2.5rem;
+					height: 2.5rem; 
+					vertical-align: middle;
+				}
+
 			#header .content .inner {
 				padding: 2.5rem 1rem;
 			}
@@ -1546,7 +1558,7 @@ input, select, textarea {
 			position: relative;
 			width: 40rem;
 			max-width: 100%;
-			background-color: rgba(27, 31, 34, 0.85);
+			background-color: rgba(22, 61, 82, 0.75);
 			border-radius: 4px;
 			opacity: 0;
 		}
